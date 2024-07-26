@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "db_extract": {
+      "commandName": "Project",
+      "commandLineArgs": "pull"
+    }
+  }
+}
